@@ -1,10 +1,9 @@
-
 import { Link } from 'react-router-dom';
 import HeroSection from '@/components/HeroSection';
 import ServiceCard from '@/components/ServiceCard';
 import ClientReview from '@/components/ClientReview';
 import BlogPost from '@/components/BlogPost';
-import { Shield, Bell, Shield } from 'lucide-react';
+import { Shield, Bell } from 'lucide-react';
 
 const Index = () => {
   return (
